@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3DF3D5AB-576A-4521-82AA-D133BCA3E1FD"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C9C8EB16-1323-4CBE-9530-80A7670437BD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "secondkadaiAPP2/ResultViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "ResultViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "C9C8EB16-1323-4CBE-9530-80A7670437BD - b572a695174cff0c"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "secondkadaiAPP2.ResultViewController.sendtext.getter : Swift.String"
+                  moduleName = "secondkadaiAPP2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mimurafumiko/Desktop/Hello%20world/Techacademy%E3%80%80%E8%AA%B2%E9%A1%8C/secondkadaiAPP2/secondkadaiAPP2/ResultViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "139">
+               </Location>
+               <Location
+                  uuid = "C9C8EB16-1323-4CBE-9530-80A7670437BD - cba8eac8579c8f70"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "secondkadaiAPP2.ResultViewController.sendtext.setter : Swift.String"
+                  moduleName = "secondkadaiAPP2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mimurafumiko/Desktop/Hello%20world/Techacademy%E3%80%80%E8%AA%B2%E9%A1%8C/secondkadaiAPP2/secondkadaiAPP2/ResultViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "150">
+               </Location>
+               <Location
+                  uuid = "C9C8EB16-1323-4CBE-9530-80A7670437BD - 4868d774d9f58be9"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "secondkadaiAPP2.ResultViewController.sendtext.modify : Swift.String"
+                  moduleName = "secondkadaiAPP2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mimurafumiko/Desktop/Hello%20world/Techacademy%E3%80%80%E8%AA%B2%E9%A1%8C/secondkadaiAPP2/secondkadaiAPP2/ResultViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "C9C8EB16-1323-4CBE-9530-80A7670437BD - a86a9892a01f5376"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "secondkadaiAPP2.ResultViewController.sendtext.modify : Swift.String with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "secondkadaiAPP2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mimurafumiko/Desktop/Hello%20world/Techacademy%E3%80%80%E8%AA%B2%E9%A1%8C/secondkadaiAPP2/secondkadaiAPP2/ResultViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "C9C8EB16-1323-4CBE-9530-80A7670437BD - ec1f76e15c004805"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "secondkadaiAPP2.ResultViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; secondkadaiAPP2.ResultViewController"
+                  moduleName = "secondkadaiAPP2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mimurafumiko/Desktop/Hello%20world/Techacademy%E3%80%80%E8%AA%B2%E9%A1%8C/secondkadaiAPP2/secondkadaiAPP2/ResultViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "138">
+               </Location>
+               <Location
+                  uuid = "C9C8EB16-1323-4CBE-9530-80A7670437BD - 44b9c8734102e8ba"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "secondkadaiAPP2.ResultViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;secondkadaiAPP2.ResultViewController&gt;"
+                  moduleName = "secondkadaiAPP2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mimurafumiko/Desktop/Hello%20world/Techacademy%E3%80%80%E8%AA%B2%E9%A1%8C/secondkadaiAPP2/secondkadaiAPP2/ResultViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "95">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
